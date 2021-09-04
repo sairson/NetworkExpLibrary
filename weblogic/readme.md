@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td>cve-2021-2109.py</td>
-    <td>racle WebLogic Server 14.1.1.0 - RCE</td>
+    <td>Oracle WebLogic Server 14.1.1.0 - RCE</td>
     <td>https://www.exploit-db.com/exploits/49461</td>
 </tr>
     
