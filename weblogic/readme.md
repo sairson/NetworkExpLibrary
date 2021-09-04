@@ -69,7 +69,10 @@
     <td>WebLogic LDAP远程代码执行漏洞(需要账户名密码)</td>
     <td>https://www.exploit-db.com/exploits/49461</td>
 </tr>
-    
-    
+<tr>
+    <td>CVE-2019-2729_cmd.py</td>
+    <td>Weblogic wls9_async组件漏洞</td>
+    <td>https://github.com/ruthlezs/CVE-2019-2729-Exploit</td>
+</tr> 
 </table>
 
