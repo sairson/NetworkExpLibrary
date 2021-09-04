@@ -24,8 +24,8 @@ Apache Shiro
 
 Linux系统使用base64编码发送命令，Windows发送默认字符  
 利用示例：  
-![images](https://github.com/zhzyker/exphub/tree/master/shiro/image/1.gif)
-![images](https://github.com/zhzyker/exphub/tree/master/shiro/image/2.gif)
+![images](https://github.com/sairson/NetworkExpLibrary/blob/main/shiro/shiro-1.2.4_rce/image/1.gif)
+![images](https://github.com/sairson/NetworkExpLibrary/blob/main/shiro/shiro-1.2.4_rce/image/2.gif)
 
 </details>
 
