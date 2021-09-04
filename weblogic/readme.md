@@ -61,7 +61,7 @@
 </tr>
 <tr>
     <td>cve-2021-2109.py</td>
-    <td>Oracle WebLogic Server 14.1.1.0 - RCE</td>
+    <td>WebLogic LDAP远程代码执行漏洞</td>
     <td>https://www.exploit-db.com/exploits/49461</td>
 </tr>
     
