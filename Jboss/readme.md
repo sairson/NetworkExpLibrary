@@ -1,0 +1,16 @@
+<table>
+<tr>
+    <th>脚本名称</th>
+    <th>脚本介绍</th>
+    <th>脚本来源</th>
+</tr>
+<tr>
+    <td>cve-2017-12149_cmd.py</td>
+    <td>JBoss反序列化漏洞（CVE-2017-12149）</td>
+    <td>https://www.cnblogs.com/hack404/p/14671169.html</td>
+</tr>
+<tr>
+    <td>jexboss利用工具</td>
+    <td>Jboss综合利用工具Jexboss，包含多版本jboss序列化和控制台文件上传</td>
+    <td>https://github.com/joaomatosf/jexboss</td>
+</tr>
