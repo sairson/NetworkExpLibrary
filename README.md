@@ -6,4 +6,18 @@ Network vulnerability exploitation library
 Note: these scripts are collected on the Internet, please do not use them in illegal ways. If others quote them, we are not responsible for them (I am only responsible for collection, not dissemination).
 <br>
 脚本来源:
-<br> 1. https://github.com/zhzyker/exphub 感谢
+
+<table>
+<tr>
+    <th>编号:</td>
+    <th>感谢:</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>https://exploit-db.com</td>
+</tr>
+</table>
