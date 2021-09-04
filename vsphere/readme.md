@@ -9,3 +9,8 @@
     <th>Vmware vcenter未授权任意文件上传(CVE-2021-21972)</th>
     <th>未知（来源于互联网）</th>
 </tr>
+<tr>
+    <th>cve-2021-21985.py</th>
+    <th>vSphere Client 远程代码执行漏洞(rce)</th>
+    <th>未知（来源于互联网）</th>
+</tr>
