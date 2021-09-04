@@ -59,5 +59,12 @@
     <td>未经身份验证的T3协议网络访问并破坏易受攻击的WebLogic Server</td>
     <td>https://github.com/zhzyker/exphub</td>
 </tr>
+<tr>
+    <td>cve-2021-2109.py</td>
+    <td>racle WebLogic Server 14.1.1.0 - RCE</td>
+    <td>https://www.exploit-db.com/exploits/49461</td>
+</tr>
+    
+    
 </table>
 
