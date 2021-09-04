@@ -44,5 +44,20 @@
     <td>Weblogic 任意文件上传漏洞(需要账户密码)</td>
     <td>https://github.com/zhzyker/exphub</td>
 </tr>
+<tr>
+    <td>cve-2020-14882_rce.py</td>
+    <td>Oracle WebLogic Server 远程代码执行漏洞</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>cve-2020-2555_cmd.py</td>
+    <td>Oracle Coherence 反序列化远程代码执行漏洞</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
+<tr>
+    <td>cve-2020-2883_cmd.py</td>
+    <td>未经身份验证的T3协议网络访问并破坏易受攻击的WebLogic Server</td>
+    <td>https://github.com/zhzyker/exphub</td>
+</tr>
 </table>
 
