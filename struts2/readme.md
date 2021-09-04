@@ -25,7 +25,7 @@
     <td>https://github.com/zhzyker/exphub</td>
 </tr>
 <tr>
-    <td>struts2-052_webshell.py/td>
+    <td>struts2-052_webshell.py</td>
     <td>Struts2 REST 插件远程代码执行漏洞上传Webshell脚本(CVE-2017-9805)</td>
     <td>https://github.com/zhzyker/exphub</td>
 </tr>
