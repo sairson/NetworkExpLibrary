@@ -1,23 +1,11 @@
-# NetworkExpLibrary
-Network vulnerability exploitation library
-<br>
-注意:这些脚本收集于互联网，请勿用于非法途径，若他人引用本人均不负责（本人只负责收集，并不负责传播）
-<br>
-Note: these scripts are collected on the Internet, please do not use them in illegal ways. If others quote them, we are not responsible for them (I am only responsible for collection, not dissemination).
-<br>
-脚本来源:
+## 介绍 :
 
-<table>
-<tr>
-    <th>编号:</td>
-    <th>感谢:</th>
-</tr>
-<tr>
-  <td>1</td>
-  <td>https://github.com/zhzyker/exphub</td>
-</tr>
-<tr>
-  <td>2</td>
-  <td>https://exploit-db.com</td>
-</tr>
-</table>
+该项目的目的是其实是为了方便自己，于是将互联网上的EXP和利用工具进行了收集，并将不断更新
+<br>
+程序包含很多项目，其中最感谢zhzyker的exphub和exploit-db等项目的开源精神。程序均来自于互联网，为了感谢这些项目，我将代码来源均进行了来源标注。
+<br>
+目前已经整理了常见框架漏洞，后续也会不断增加，来方便安全人员的渗透测试活动
+<br>
+注意：该些脚本均来自于互联网项目和开源文章，请勿用于非法途径，否则由个人承担，本人概不负责
+
+
