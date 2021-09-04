@@ -60,6 +60,11 @@
     <td>https://github.com/zhzyker/exphub</td>
 </tr>
 <tr>
+    <td>weblogic-2019-2725.py</td>
+    <td>weblogic的xmldecoder反序列化漏洞</td>
+    <td>https://github.com/TopScrew/CVE-2019-2725</td>
+</tr>
+<tr>
     <td>cve-2021-2109.py</td>
     <td>WebLogic LDAP远程代码执行漏洞</td>
     <td>https://www.exploit-db.com/exploits/49461</td>
