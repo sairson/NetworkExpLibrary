@@ -1,5 +1,8 @@
 ## 以Fastjson 1.2.47 利用为例
 ### marshalsec-0.0.3-SNAPSHOT-all.jar 启用 RMI/LDAP
+```
+https://github.com/RandomRobbieBF/marshalsec-jar
+```
 编译Exploit.java生成Exploit.class
 ```
 javac Exploit.java
