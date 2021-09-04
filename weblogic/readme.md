@@ -66,7 +66,7 @@
 </tr>
 <tr>
     <td>cve-2021-2109.py</td>
-    <td>WebLogic LDAP远程代码执行漏洞</td>
+    <td>WebLogic LDAP远程代码执行漏洞(需要账户名密码)</td>
     <td>https://www.exploit-db.com/exploits/49461</td>
 </tr>
     
