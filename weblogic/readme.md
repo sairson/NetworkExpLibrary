@@ -74,5 +74,12 @@
     <td>Weblogic wls9_async组件漏洞</td>
     <td>https://github.com/ruthlezs/CVE-2019-2729-Exploit</td>
 </tr> 
+<tr>
+    <td>Oracle-WebLogic-CVE-2021-2109_RCE.jar</td>
+    <td>WebLogic LDAP远程代码执行漏洞</td>
+    <td>https://github.com/Yang0615777/PocList</td>
+</tr> 
 </table>
 
+### 部分jar包使用方式
+java -jar Oracle-WebLogic-CVE-2021-2109_RCE.jar
