@@ -14,3 +14,8 @@
     <th>vSphere Client 远程代码执行漏洞(CVE-2021-21985)</th>
     <th>未知（来源于互联网）</th>
 </tr>
+<tr>
+    <th>CVE-2021-22005-main</th>
+    <th>CVE-2021-22005（CVE-2021-22005 - VMWare vCenter Server File Upload to RCE）</th>
+    <th>https://github.com/r0ckysec/CVE-2021-22005</th>
+</tr>
